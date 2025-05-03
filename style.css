@@ -10,7 +10,7 @@
 body{
     font-family: var(--font-text);
     background-color: #FF8C00;
-    background-image: linear-gradient(170deg,#FF8C00,#ffa02b,#FED8B1);
+    background-image: linear-gradient(170deg,#FF8C00,#faa945,#FED8B1);
 }
 header{
     display: flex;
@@ -28,13 +28,6 @@ header .right{
     align-items: center;
     justify-content: center;
     gap: 20px;
-}
-header .right a{
-    background-color: #fff;
-    border-radius: 5px;
-    padding: 0 30px;
-    color: #111;
-    text-decoration: none;
 }
 header .right button{
     background-color: #ffffff00;
