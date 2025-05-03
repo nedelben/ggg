@@ -40,7 +40,7 @@ header .right button{
     background-color: #ffffff00;
     color: #fff;
     border: none;
-    font-size: 20px;
+    font-size: 25px;
 }
 main{
     height: 90vh;
@@ -79,4 +79,5 @@ main .box-search .boxes{
     display: flex;
     justify-content: center;
     align-items: center;
+    border-radius: 15px;
 }
