@@ -40,17 +40,6 @@ header .right .box-dot{
     justify-content: center;
     align-items: center;
 }
-header .right .box-dot span{
-    position: absolute;
-    background-color: red;
-    font-size: 50px;
-    border-radius: 50%;
-    width: 10px;
-    height: 10px;
-    right: 50px;
-    top: 35px;
-    box-shadow: #FF8C00 -1px -1px 1px 1px;
-}
 main{
     height: 90vh;
     display: flex;
