@@ -67,7 +67,7 @@ main .info a{
     text-decoration: none;
     color: #fff;
 }
-main button{
+main input{
     width: 90%;
     height: 50px;
     border-radius: 20px;
@@ -75,6 +75,8 @@ main button{
     border: none;
     outline: none;
     margin: 20px 0;
+    font-size: 20px;
+    padding: 10px;
 }
 main .box-search{
     width: 80%;
