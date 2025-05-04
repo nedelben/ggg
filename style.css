@@ -81,3 +81,25 @@ main .box-search .boxes{
     align-items: center;
     border-radius: 15px;
 }
+main .box-search .boxes {
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px 15px;
+    font-family: monospace;
+    font-size: 14px;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    color: #333;
+}
+
+main .box-search .boxes:hover {
+    cursor: pointer;
+    background-color: #FED8B1;
+}
+
+main .box-search .boxes:focus {
+    background-color: #232222; 
+    color: #f5f5f5;
+    outline: none;
+}
+
